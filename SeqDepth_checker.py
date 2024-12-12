@@ -20,7 +20,7 @@ def usage():
         "\t-o, --output_dir: A path to a folder where the resultant Excel file is saved (default: the data_dir).\n"
         "\t-t, --threads: Number of CPU threads to be used (default: 1).\n"
         "\t-s, --bam_suffix: A character string separating a sample name from the file extension (.bam).\n"
-        "\t-S, --sd_times: The number of standard devations to be subtracted from each mean sequencing read coverage depth value to get a minimal read coverage depth value (default: 0).\n"
+        "\t-S, --sd_times: The number of standard deviations to be subtracted from each mean sequencing read coverage depth value to get a minimal read coverage depth value (default: 0).\n"
         "\t-T, --threshold: If the minimal sequencing read coverage depth value for a gene region is lower than the given threshold, the enrichment of this region is considered as failed (default: 5).\n"
         "\t-h, --help: prints this help message.\n"
         "\t-v, --version: prints the version of this program.\n"
