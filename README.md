@@ -1,3 +1,5 @@
+# SeqDepth_checker
+
 Welcome to the SeqDepth_checker app, created to evaluate the depth of coverage in Next-Generation Sequencing experiments for every gene region listed in the input BED file. 
 
 The following options are available:
